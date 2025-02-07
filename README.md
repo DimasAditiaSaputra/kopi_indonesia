@@ -16,7 +16,7 @@ Selamat datang di **Kopi Indonesia**, sebuah website sederhana yang memperkenalk
 ## Cara Menggunakan
 1. Clone repository ini ke komputer kamu:
    ```sh
-   git clone https://github.com/username/repo-kopi.git
+   git clone https://github.com/DimasAditiaSaputra/kopi_indonesia.git
    ```
 2. Buka file `home.html` di browser.
 3. Gunakan fitur pencarian di navbar untuk menemukan informasi tentang kopi.
