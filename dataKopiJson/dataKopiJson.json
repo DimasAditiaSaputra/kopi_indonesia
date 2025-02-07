@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Kopi Arabika Toraja",
+    "image_kopi": "../img_data_kopi/arabika/buah_kopi_arabika.png",
+    "path_page_kopi": "../page_kopi/kopi_arabika.html",
+    "describe_singkat": "Kopi arabika (Coffea arabica), juga dikenal sebagai kopi arab, kopi semak arab, atau kopi gunung, adalah spesies dari genus Coffea."
+  },
+  {
+    "name": "Kopi Robusta",
+    "image_kopi": "../img_data_kopi/robusta/kopi_robusta.png",
+    "path_page_kopi": "../page_kopi/kopi_robusta.html",
+    "describe_singkat": "Kopi robusta (Coffea canephora) merupakan keturunan beberapa spesies kopi yang tumbuh baik di ketinggian 400-700 mdpl, temperatur 21-24 °C dengan bulan kering 3-4 bulan secara berturut-turut dan 3-4 kali hujan kiriman."
+  },
+  {
+    "name": "Kopi Luwak",
+    "image_kopi": "../img_data_kopi/luwak/kopi_luwak.png",
+    "path_page_kopi": "../page_kopi/kopi_luwak.html",
+    "describe_singkat": "Kopi luwak adalah seduhan kopi menggunakan biji kopi yang diambil dari sisa kotoran luwak/musang kelapa. Biji kopi ini diyakini memiliki rasa yang berbeda setelah dimakan dan melewati saluran pencernaan luwak."
+  },
+  {
+    "name": "Kopi Excelsa",
+    "image_kopi": "../img_data_kopi/excelsa/kopi_excelsa.png",
+    "path_page_kopi": "../page_kopi/kopi_excelsa.html",
+    "describe_singkat": "Kopi excelsa, bagian dari spesies Coffea liberica, dikenal dengan aroma buah dan rasa asam uniknya, sering digunakan untuk menambah kompleksitas pada campuran kopi."
+  },
+  {
+    "name": "Kopi Liberika",
+    "image_kopi": "../img_data_kopi/liberika/kopi_liberika.png",
+    "path_page_kopi": "../page_kopi/kopi_liberika.html",
+    "describe_singkat": "Kopi liberika (Coffea liberica) memiliki biji yang lebih besar dari arabika dan robusta, dengan rasa khas yang cenderung berasap dan kayu."
+  },
+  {
+    "name": "Kopi Toraja",
+    "image_kopi": "../img_data_kopi/toraja/kopi_toraja.png",
+    "path_page_kopi": "../page_kopi/kopi_toraja.html",
+    "describe_singkat": "Kopi toraja berasal dari pegunungan Sulawesi Selatan, terkenal dengan rasa earthy, sedikit spicy, dan aftertaste yang clean."
+  },
+  {
+    "name": "Kopi Kintamani",
+    "image_kopi": "../img_data_kopi/kintamani/kopi_kintamani.png",
+    "path_page_kopi": "../page_kopi/kopi_kintamani.html",
+    "describe_singkat": "Kopi Kintamani berasal dari Bali, ditanam di dataran tinggi dengan sistem tumpang sari, memiliki rasa citrus yang unik dan aroma floral."
+  },
+  {
+    "name": "Kopi Aceh Gayo",
+    "image_kopi": "../img_data_kopi/aceh_gayo/kopi_aceh_gayo.png",
+    "path_page_kopi": "../page_kopi/kopi_aceh_goyo.html",
+    "describe_singkat": "Kopi Gayo berasal dari Aceh Tengah, dikenal dengan rasa yang kompleks, acidity yang seimbang, dan aroma rempah yang khas."
+  },
+  {
+    "name": "Kopi Java",
+    "image_kopi": "../img_data_kopi/kopi_java/kopi_java.png",
+    "path_page_kopi": "../page_kopi/kopi_java.html",
+    "describe_singkat": "Kopi Java adalah kopi khas dari pulau Jawa, memiliki karakter rasa full body dengan keasaman rendah dan aroma yang earthy."
+  },
+  {
+    "name": "Kopi Mandheling",
+    "image_kopi": "../img_data_kopi/mandheling/kopi_mandheling.png",
+    "path_page_kopi": "../page_kopi/kopi_mandheling.html",
+    "describe_singkat": "Kopi Mandheling berasal dari Sumatera, memiliki rasa full body, earthy, dengan aroma cokelat dan rempah yang kuat."
+  }
+]

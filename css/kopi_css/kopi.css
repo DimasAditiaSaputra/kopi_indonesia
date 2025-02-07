@@ -1,0 +1,103 @@
+/* General Styles */
+body {
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+/* Blog Section */
+.blog {
+  padding: 20px;
+
+  width: 80%;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Intro Section */
+.intro {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.intro h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #4b2c20;
+}
+
+.container-img img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  border: 2px solid #ccc;
+  margin: 20px 0;
+}
+
+/* Article Styles */
+.article-1,
+.article-2,
+.article-3,
+.article-4 {
+  margin-bottom: 30px;
+}
+
+.article-1 h1,
+.article-2 h1,
+.article-3 h1,
+.article-4 h1 {
+  font-size: 1.8rem;
+  color: #4b2c20;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #f0a500;
+  padding-bottom: 5px;
+}
+
+.article-1 p,
+.article-2 p,
+.article-3 p,
+.article-4 p {
+  font-size: 1rem;
+  color: #555;
+  text-align: justify;
+  margin: 10px 0;
+}
+
+/* Add Hover Effect for Titles */
+.article-1 h1:hover,
+.article-2 h1:hover,
+.article-3 h1:hover,
+.article-4 h1:hover {
+  color: #f0a500;
+  cursor: pointer;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .blog {
+    padding: 15px;
+  }
+
+  .intro h1 {
+    font-size: 1.5rem;
+  }
+
+  .article-1 h1,
+  .article-2 h1,
+  .article-3 h1,
+  .article-4 h1 {
+    font-size: 1.5rem;
+  }
+
+  .article-1 p,
+  .article-2 p,
+  .article-3 p,
+  .article-4 p {
+    font-size: 0.9rem;
+  }
+}
