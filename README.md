@@ -1,3 +1,5 @@
+![Kopi Indonesia](home.png)
+
 # Kopi Indonesia
 
 Selamat datang di **Kopi Indonesia**, sebuah website sederhana yang memperkenalkan budaya kopi di Indonesia. Dari Sumatra hingga Sulawesi, setiap cangkir kopi memiliki cerita unik yang siap dinikmati.
